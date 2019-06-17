@@ -1,16 +1,16 @@
-# firebase
+# Simple Task
 
-A new Flutter application.
+A simple task management application, built with Flutter.
 
-## Getting Started
+## Developed by:
 
-This project is a starting point for a Flutter application.
+unnamed_team
+- Yudianto Sujana (蘇嘉納): P78077016
+- Jiawen-Li (李佳文): P78073012
 
-A few resources to get you started if this is your first Flutter project:
+## Install
+Download the app.apk file, and install it on your Android phone
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Computer Science and Information Engineering (CSIE)
+National Cheng Kung University
+Tainan, Taiwan
