@@ -1,6 +1,6 @@
 # Simple Task
 
-A simple task management application, built with Flutter.
+A simple task management application for Android, built with Flutter and Firebase.
 
 ## Developed by:
 
@@ -11,6 +11,6 @@ unnamed_team
 ## Install
 Download the app.apk file, and install it on your Android phone
 
-Computer Science and Information Engineering (CSIE)
-National Cheng Kung University
-Tainan, Taiwan
+<p>Department of Computer Science and Information Engineering (CSIE)<br>
+National Cheng Kung University<br>
+Tainan, Taiwan</p>
